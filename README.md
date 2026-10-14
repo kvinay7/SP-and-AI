@@ -1,4 +1,4 @@
-## NITK M.Tech SPAI
+<h1 align="center">NITK-M.Tech-SPAI</h1>
 
 | Semester | Subjects / Learning Areas | Focus |
 |---|---|---|
@@ -7,8 +7,6 @@
 | **Semester 2** | Signal Processing, Computer Vision, Optimization | Core AI and signal-processing concepts |
 | **Semester 3** | **Elective 1 + Elective 2 + Major Project I** | Specialization and project development |
 | **Semester 4** | **Elective 3 + Elective 4 + Major Project II** | Advanced specialization and project completion |
-
-### Electives for four career targets
 
 | Semester | Elective | Career focus |
 |---|---|---|
