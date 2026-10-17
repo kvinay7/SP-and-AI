@@ -11,6 +11,6 @@
 | Semester | Elective | Career focus |
 |---|---|---|
 | **Semester 3** | Neural Networks & Deep Learning | AI Software + Academia |
-| **Semester 3** | Detection, Estimation & Statistical Learning Theory | Signal Processing + Academia + Space |
+| **Semester 3** | Quantum Machine Learning | Quantum AI|
 | **Semester 4** | Biomedical Data Science | MedTech |
-| **Semester 4** | Remote Sensing Data Analysis | Space Tech |
+| **Semester 4** | Remote Sensing Data Analysis | Space Tech + Edge AI |
